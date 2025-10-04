@@ -1,0 +1,45 @@
+# ---------------------------
+# Python cache files
+# ---------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---------------------------
+# Virtual environment
+# ---------------------------
+venv/
+env/
+ENV/
+
+# ---------------------------
+# Environment variables & secrets
+# ---------------------------
+.env
+.env.*
+
+# ---------------------------
+# Firebase service account
+# ---------------------------
+serviceAccountKey.json
+
+# ---------------------------
+# OS specific files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Editor specific files
+# ---------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---------------------------
+# Jupyter notebooks checkpoints
+# ---------------------------
+.ipynb_checkpoints/
+
+.venv/
