@@ -1,5 +1,0 @@
-streamlit
-firebase-admin
-python-dotenv
-email-validator
-reportlab   
